@@ -1,1 +1,1 @@
-# rsschool-cv
+https://SmartMdn.github.io/rsschool-cv/
