@@ -6,3 +6,10 @@
 * __E-mail:__ i.matyuninn@gmail.com
 * __GitHub:__ SmartMdn
 * __Discord:__ Хуан Дель Мудро#1835
+----
+## Skills:
+* C#
+* JavaScript
+* HTML
+* CSS
+* Git
