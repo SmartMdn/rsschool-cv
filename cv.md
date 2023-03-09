@@ -19,3 +19,9 @@ I am a fourth year student from Francisk Skorina Gomel State University on speci
 * __Git, GitHub__
 * __WebStorm, Rider__
 
+## Education:
+
+* Francisk Skorina Gomel State University, _mathematical_
+* .NET Internship
+* RS Schools Course «JavaScript/Front-end» (in progress)
+
