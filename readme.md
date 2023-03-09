@@ -1,3 +1,3 @@
-https://SmarMdn.github.io/rsschool-cv/cv
+https://SmartMdn.github.io/rsschool-cv/cv
 
-https://SmarMdn.github.io/rsschool-cv
+https://SmartMdn.github.io/rsschool-cv
