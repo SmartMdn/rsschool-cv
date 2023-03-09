@@ -10,3 +10,12 @@
 ## About me:
 
 I am a fourth year student from Francisk Skorina Gomel State University on speciality economical cybernetic. I want to become a fullstack developer with ASP.NET + Angular stack.
+
+## Skills and Profiency:
+
+* __C#, MS SQL Server, Java (each basic)__
+* __HTML5, CSS3__
+* __JavaScript__
+* __Git, GitHub__
+* __WebStorm, Rider__
+
