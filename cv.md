@@ -25,3 +25,9 @@ I am a fourth year student from Francisk Skorina Gomel State University on speci
 * .NET Internship
 * RS Schools Course «JavaScript/Front-end» (in progress)
 
+## Languages:
+
+* __English__ - Pre-intermediate
+* __Russian__ - Native
+* __Germany__ - Intermediate
+* __Belarus__ - Native
