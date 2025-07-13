@@ -1,1 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ilya Matyunin - Junior Fullstack Developer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="navbar">
+    <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#education">Education</a></li>
+        <li><a href="#languages">Languages</a></li>
+        <li><a href="#contact">Contacts</a></li>
+    </ul>
+</nav>
+<div class="resume-container">
+    <header class="resume-header">
+        <div class="header-content">
+            <div class="name-title">
+                <h1>Ilya Matyunin</h1>
+                <div class="job-title">
+                    <span>Junior Fullstack</span>
+                    <span>Developer</span>
+                </div>
+            </div>
 
+            <div class="profile-image">
+                <img src="Shared/image.jpg" alt="Ilya Matyunin Photo">
+            </div>
+        </div>
+
+        <div class="contact-info" id="contact">
+            <div class="contact-item">
+                <strong>Phone:</strong> +375333951713
+            </div>
+            <div class="contact-item">
+                <strong>E-mail:</strong> i.matyuninn@gmail.com
+            </div>
+            <div class="contact-links">
+                <a href="https://t.me/smartmdn" target="_blank">Telegram</a>
+                <a href="https://github.com/SmartMdn" target="_blank">GitHub</a>
+            </div>
+        </div>
+    </header>
+
+    <hr class="divider">
+
+    <div class="resume-content">
+        <div class="about-skills" id="about">
+            <h2>About me & Skills and Proficiency</h2>
+            <div class="about-text">
+                <p>I am .NET Backend Developer. I want to become a fullstack developer with ASP.NET + Angular stack.</p>
+            </div>
+
+            <div class="skills-grid" id="skills">
+                <div class="skill-category">
+                    <h3>.NET</h3>
+                    <ul>
+                        <li>C#</li>
+                        <li>MS SQL Server</li>
+                        <li>EF Core (basic)</li>
+                    </ul>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Web</h3>
+                    <ul>
+                        <li>JavaScript</li>
+                        <li>HTML5/CSS3</li>
+                    </ul>
+                </div>
+
+                <div class="skill-category">
+                    <h3>Tools</h3>
+                    <ul>
+                        <li>Git, GitHub</li>
+                        <li>WebStorm</li>
+                        <li>Rider</li>
+                    </ul>
+                </div>
+
+                <div class="education-section" id="education">
+                    <h3>Education</h3>
+                    <ul>
+                        <li><strong>Francisk Skorina Gomel State University</strong>, mathematical</li>
+                        <li>.NET Internship (in progress)</li>
+                        <li>RS Schools Course «JavaScript/Front-end» (in progress)</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="languages-section" id="languages">
+            <h2>Languages</h2>
+            <ul class="languages-list">
+                <li>English — Pre-intermediate</li>
+                <li>Russian — Native</li>
+                <li>Germany — Intermediate</li>
+                <li>Belarus — Native</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="footer-content">
+        <div class="footer-left">
+            <a href="https://github.com/SmartMdn" target="_blank" class="rs-logo">
+                <img src="Shared/github.svg" alt="Github">
+                <span class="rs-text">GitHub автора</span>
+            </a>
+            <div class="year" >© 2025</div>
+        </div>
+
+        <a href="https://rs.school/courses/javascript-ru" target="_blank" class="rs-logo">
+            <img src="Shared/rss-logo.c19ce1b4.svg" alt="RS School Logo">
+            <span class="rs-text">RS School Course</span>
+        </a>
+    </div>
+</footer>
+<script>
+    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
+        anchor.addEventListener('click', function (e) {
+            e.preventDefault();
+            document.querySelector(this.getAttribute('href')).scrollIntoView({
+                behavior: 'smooth'
+            });
+        });
+    });
+</script>
+</body>
+</html>
