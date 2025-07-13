@@ -4,16 +4,16 @@
 ## Contact information:
 * __Phone:__ +375333951713
 * __E-mail:__ i.matyuninn@gmail.com
-* [**Telegram**](https://t.me/imatyunin)
+* [**Telegram**](https://t.me/smartmdn)
 * [**GitHub**](https://github.com/SmartMdn)
 
 ## About me:
 
-I am a fourth year student from Francisk Skorina Gomel State University on speciality economical cybernetic. I want to become a fullstack developer with ASP.NET + Angular stack.
+I am .NET Backend Developer. I want to become a fullstack developer with ASP.NET + Angular stack.
 
-## Skills and Profiency:
+## Skills and Proficiency:
 
-* __C#, MS SQL Server, Java (each basic)__
+* __C#, MS SQL Server, EF Core (each basic)__
 * __HTML5, CSS3__
 * __JavaScript__
 * __Git, GitHub__
@@ -22,7 +22,7 @@ I am a fourth year student from Francisk Skorina Gomel State University on speci
 ## Education:
 
 * Francisk Skorina Gomel State University, _mathematical_
-* .NET Internship
+* .NET Internship (in progress)
 * RS Schools Course «JavaScript/Front-end» (in progress)
 
 ## Languages:
