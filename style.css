@@ -186,6 +186,70 @@ h2 {
     break-inside: avoid;
 }
 
+/* Стили футера */
+footer {
+    background: #333;
+    color: #fff;
+    padding: 30px 0;
+    margin-top: 40px;
+}
+
+.footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.footer-left {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.github-link {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #fff;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.github-link:hover {
+    color: #58a6ff;
+    transform: translateY(-2px);
+}
+
+.year {
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.rs-logo {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+}
+
+.rs-logo img {
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.rs-logo:hover img {
+    transform: scale(1.1);
+}
+
+.rs-text {
+    color: #fff;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
 @media (max-width: 768px) {
     .resume-header {
         flex-direction: column;
@@ -213,5 +277,15 @@ h2 {
 
     .languages-list {
         columns: 1;
+    }
+
+    .footer-content {
+        flex-direction: column;
+        gap: 25px;
+        text-align: center;
+    }
+
+    .footer-left {
+        flex-direction: column;
     }
 }
