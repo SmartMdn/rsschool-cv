@@ -37,7 +37,6 @@ html {
     background-color: #555;
 }
 
-/* Адаптивность для навбара */
 @media (max-width: 768px) {
     .navbar ul {
         flex-wrap: wrap;
@@ -65,7 +64,7 @@ body {
 }
 
 .resume-header {
-    margin-bottom: 20px;
+    margin-top: 0;
 }
 
 .header-content {
